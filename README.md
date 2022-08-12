@@ -4,4 +4,4 @@
 - Betty code and doc style compliant
 - Project source: Holberton School et Alx Africa
 - Instructor: Julien Barbier
-- Authors: Bright Uzosike & Eke Timothy.
+- Authors: Bright Uzosike & Eke Timothy C.
